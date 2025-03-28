@@ -1,0 +1,5 @@
+airflow/airflow.cfg
+airflow-webserver.pid
+logs/
+plugins/
+passwd
